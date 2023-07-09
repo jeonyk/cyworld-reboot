@@ -1,0 +1,11 @@
+build-1:
+  script:
+    - cd /home/ubuntu/cyfront
+    - git reset --hard
+    - git pull
+
+deploy-1:
+  stage: deploy
+  script:
+    - npm i
+    - npm run build

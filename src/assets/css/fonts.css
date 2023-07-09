@@ -1,0 +1,110 @@
+
+/* ==========================================================================
+    Sandoll 고딕Neo1유니코드
+    ========================================================================== */
+    @font-face {
+        font-family: 'GothicNeoaUni';
+        font-style: normal;
+        font-weight: 300;
+        src: url('/fonts/CW_WEBSDGothicNeoaUniTTF-cLt.eot');   /* IE 호환성 보기 */
+        src: url('/fonts/CW_WEBSDGothicNeoaUniTTF-cLt.eot#iefix') format('embedded-opentype'),    /* IE 6 ~ 8 */
+        url('/fonts/CW_WEBSDGothicNeoaUniTTF-cLt.woff2') format('woff2'), /* WOFF2 지원 브라우저 */
+        url('/fonts/CW_WEBSDGothicNeoaUniTTF-cLt.woff') format('woff'),   /* 모던 브라우저 */
+        url('/fonts/CW_APPSDGothicNeoaUniTTF-cLt.ttf') format('truetype'),
+        url('/fonts/CW_APPSDGothicNeoaUni-cLt.otf') format('opentype');
+      }
+    
+      @font-face {
+          font-family: 'GothicNeoaUni';
+          font-style: normal;
+          font-weight: 400;
+          src: url('/fonts/CW_WEBSDGothicNeoaUniTTF-eMd.eot');
+          src: url('/fonts/CW_WEBSDGothicNeoaUniTTF-eMd.eot#iefix') format('embedded-opentype'),
+          url('/fonts/CW_WEBSDGothicNeoaUniTTF-eMd.woff2') format('woff2'),
+          url('/fonts/CW_WEBSDGothicNeoaUniTTF-eMd.woff') format('woff'),
+          url('/fonts/CW_APPSDGothicNeoaUniTTF-eMd.ttf') format('truetype'),
+          url('/fonts/CW_APPSDGothicNeoaUni-eMd.otf') format('opentype');
+      }
+    
+      @font-face {
+          font-family: 'GothicNeoaUni';
+          font-style: normal;
+          font-weight: 700;
+          src: url('/fonts/CW_WEBSDGothicNeoaUniTTF-gBd.eot');
+          src: url('/fonts/CW_WEBSDGothicNeoaUniTTF-gBd.eot#iefix') format('embedded-opentype'),
+          url('/fonts/CW_WEBSDGothicNeoaUniTTF-gBd.woff2') format('woff2'),
+          url('/fonts/CW_WEBSDGothicNeoaUniTTF-gBd.woff') format('woff'),
+          url('/fonts/CW_APPSDGothicNeoaUniTTF-gBd.ttf') format('truetype'),
+          url('/fonts/CW_APPSDGothicNeoaUni-gBd.otf') format('opentype');
+      }
+    
+      /* unicode-range: U+2026; 말줄임 속성에서만 사용 (ellipsis '...') */
+      @font-face {
+          font-family: 'GothicNeoaUni';
+          font-style: normal;
+          font-weight: 300;
+          src: url('/fonts/CW_APPSDGothicNeoaUni-cLt-final.otf') format('opentype');
+          unicode-range: U+2026;
+      }
+    
+      @font-face {
+          font-family: 'GothicNeoaUni';
+          font-style: normal;
+          font-weight: 400;
+          src: url('/fonts/CW_APPSDGothicNeoaUni-eMd-final.otf') format('opentype');
+          unicode-range: U+2026;
+      }
+    
+      @font-face {
+          font-family: 'GothicNeoaUni';
+          font-style: normal;
+          font-weight: 700;
+          src: url('/fonts/CW_APPSDGothicNeoaUni-gBd-final.otf') format('opentype');
+          unicode-range: U+2026;
+      }
+    
+      /* ==========================================================================
+        DungGeunMo 둥근모꼴
+        ========================================================================== */
+      @font-face {
+          font-family: 'DungGeunMo';
+          font-style: normal;
+          font-weight: 400;
+          src: url('/fonts/DungGeunMo.eot'); /* IE 호환성 보기 */
+          src: url('/fonts/DungGeunMo.eot#iefix') format('embedded-opentype'), /* IE 6 ~ 8 */
+          url('/fonts/DungGeunMo.woff2') format('woff2'),   /* WOFF2 지원 브라우저 */
+          url('/fonts/DungGeunMo.woff') format('woff'), /* 모던 브라우저 */
+          url('/fonts/DungGeunMo.ttf') format('truetype'),
+          url('/fonts/DungGeunMo.otf') format('opentype');
+      }
+    
+    
+      /* ==========================================================================
+        Gmarket Sans
+        ========================================================================== */
+      @font-face {
+          font-family: 'GmarketSans';
+          src: url('/fonts/GmarketSansLight.woff2') format('woff2'),
+          url('/fonts/GmarketSansLight.woff') format('woff'),
+          url('/fonts/GmarketSansTTFLight.ttf') format('truetype');
+          font-weight: 300;
+          font-style: normal;
+      }
+    
+      @font-face {
+          font-family: 'GmarketSans';
+          src: url('/fonts/GmarketSansMedium.woff2') format('woff2'),
+          url('/fonts/GmarketSansMedium.woff') format('woff'),
+          url('/fonts/GmarketSansTTFMedium.ttf') format('truetype');
+          font-weight: 400;
+          font-style: normal;
+      }
+    
+      @font-face {
+          font-family: 'GmarketSans';
+          src: url('/fonts/GmarketSansBold.woff2') format('woff2'),
+          url('/fonts/GmarketSansBold.woff') format('woff'),
+          url('/fonts/GmarketSansTTFBold.ttf') format('truetype');
+          font-weight: 700;
+          font-style: normal;
+      }
