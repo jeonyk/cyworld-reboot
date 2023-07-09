@@ -1,24 +1,25 @@
-# cyworld-vue
+# cyworld Reboot
+>싸이월드제트 싸이월드 리부트
 
-## Project setup
-```
-yarn install
-```
+<img src="https://jeonyk.github.io/images/project4-1.jpg" alt="">
+<img src="https://jeonyk.github.io/images/project4-2.jpg" alt="">
+<img src="https://jeonyk.github.io/images/project4-3.jpg" alt="">
+<img src="https://jeonyk.github.io/images/project4-4.jpg" alt="">
+<img src="https://jeonyk.github.io/images/project4-5.jpg" alt="">
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### 1. 제작 기간 & 참여 인원
+- 2021.07 – 2021.12
+- Front-End 8명, Back-End 12명
 
-### Compiles and minifies for production
-```
-yarn build
-```
+### 2. 담당업무
+- PC Web, Mobile Webview 마크업 및 API 연동
 
-### Lints and fixes files
-```
-yarn lint
-```
+### 3. 사용 기술
+#### `Front-end`
+  - Vuejs 
+  - JavaScript 
+  - SCSS 
+  - Vuetify 
+  - styled-components
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<!-- ✨💻🚇📖😄 -->
